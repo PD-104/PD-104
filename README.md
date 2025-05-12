@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prajakta Dutta
+======================================================================================================================================
+
+Aspiring Data Analyst
+---------------------
+
+Motivated and disciplined professional transitioning into data analytics after a career break and experience in a non-tech field. Backed by an engineering degree, bringing strong problem-solving skills, analytical thinking, and a structured approach to learning. Currently enhancing data analysis skills through a hands-on bootcamp focused on SQL, Python, Excel, Power BI, and Tableau. Eager to launch a new career leveraging data to support business decisions and uncover meaningful trends.
+
+*   🌍  I'm based in United Kingdom
+*   ✉️  You can contact me at [praj.dutt@gmail.com](mailto:praj.dutt@gmail.com)
+*   🧠  I'm learning Tableau, Power BI, SQL, Azure and Python.
 
 <!--
 **PD-104/PD-104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
